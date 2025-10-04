@@ -2,7 +2,7 @@
 
 This project was done as a part of the MHA 3010 (Machine Learning For Automation) course at Vellore Institute of Technology, Chennai.
 
-This project investigates the application of machine learning classifiers and ensemble voting methods for diagnosing faults in an IC engine gearbox using vibration-based analysis.
+The project investigates the application of machine learning classifiers and ensemble voting methods for diagnosing faults in an IC engine gearbox using vibration-based analysis.
 
 * [Abstract](#Abstract)
 * [Objective](#Objective)
